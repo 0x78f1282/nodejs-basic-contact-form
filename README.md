@@ -1,4 +1,4 @@
-# emailcontactform
+# NodeJs Contact Form
 App contact form, requesting and sending info as Full name, Subject, Email & Messages
 
 Para que funcione necesitas instalar:
